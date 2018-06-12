@@ -1,0 +1,3 @@
+requires 'Bio::Perl', '1.7.8';
+requires 'Test::Simple', '1.302123';
+

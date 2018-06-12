@@ -1,0 +1,8 @@
+biopython==1.82
+pandas
+numpy
+pytest
+matplotlib
+seaborn
+snakemake==7.26
+
